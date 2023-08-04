@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/sljike">
+        <file>iskljuceno.png</file>
+        <file>ukljuceno.png</file>
+    </qresource>
+</RCC>
